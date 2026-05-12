@@ -1,0 +1,12 @@
+{
+  "job_id": "job-vpn",
+  "source_url": "https://filesto.firezone.space/download/gAAAAABqA7v8-mD3l4PBONynZHeHKxnWnx63Kt7G08N9eheCa09e5ensuzwsR6uv0MuymuYlEwO2my44zxBM60t0bBWvsK1k_9-v-O9oPk4bMFEeh_bWuawd1taGkLaQkWGUJCQBixCTnEPGxCqIt7578DWhcD-MM_sU9RRl8wLbpWoIrJa4NiMwpU29vwxSno2tyNC0eygoDOgyL9-CqCUk9V0_84CV6udKn2ecqzz5UrvNfhLLybtWnrQ4d7zeh6VlwHakvG2T",
+  "created_at_utc": "2026-05-12T23:54:41Z",
+  "mode": "single",
+  "total_size_bytes": 31896538,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-vpn/file.bin",
+  "chunks_path_prefix": "jobs/job-vpn/chunks/chunk_",
+  "suggested_filename": "gAAAAABqA7v8-mD3l4PBONynZHeHKxnWnx63Kt7G08N9eheCa09e5ensuzwsR6uv0MuymuYlEwO2my44zxBM60t0bBWvsK1k_9-v-O9oPk4bMFEeh_bWuawd1taGkLaQkWGUJCQBixCTnEPGxCqIt7578DWhcD-MM_sU9RRl8wLbpWoIrJa4"
+}
