@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp39sslp-d5uu67xj",
+  "source_url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.23/mhrv-rs-android-arm64-v8a-v1.9.23.apk",
+  "created_at_utc": "2026-05-12T23:37:14Z",
+  "mode": "single",
+  "total_size_bytes": 19538969,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp39sslp-d5uu67xj/file.bin",
+  "chunks_path_prefix": "jobs/job-mp39sslp-d5uu67xj/chunks/chunk_",
+  "suggested_filename": "mhrv-rs-android-arm64-v8a-v1.9.23.apk"
+}
