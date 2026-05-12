@@ -15,7 +15,9 @@ Actions create `jobs/<job_id>/` on your fork after successful downloads. That fo
 
 ## How to use
 
-1. **Fork this repository.** On GitHub, click **Fork** and create your own copy. Your fork can be public or private.
+> **Use a separate GitHub account for this**, not your main one. Forking, workflow runs, and downloaded job files all live under whichever account you use. A throwaway or secondary account keeps your primary account, repos, and reputation isolated from any content the relay pulls.
+
+1. **Fork this repository.** Sign in with your secondary account, then click **Fork** and create your own copy. Your fork can be public or private.
 2. **Copy your fork repo URL.** Use the repository you forked, not the original template. It will look like `https://github.com/yourname/your-fork` or `yourname/your-fork`.
 3. **Enable Actions on your fork.** Open your fork's **Actions** tab and allow workflows if GitHub asks.
 4. **Install MattDownloader.** Download the latest APK from this repository's **Releases** page, install it, and open the app.
